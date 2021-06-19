@@ -1,6 +1,6 @@
 /* Enter your solutions in this file */
 #include <stdio.h>
-#include <stdio.h>
+
 
 int max(const int arr[],int n){
 	int Max=arr[0];
